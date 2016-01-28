@@ -6,6 +6,14 @@ This is the starter webapp for Tutorial ci-normal01
 
 It is purposefully broken.
 
+Note* use Alman style notation
+
+**************
+Team members
+**************
+Austin Lott
+John Janzen
+
 **************
 Intended Usage
 **************
