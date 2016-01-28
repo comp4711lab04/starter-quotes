@@ -1,0 +1,5 @@
+Newest changes at the top
+
+01 / 28 / 2016
+  Updated Read Me
+  Added changelog
