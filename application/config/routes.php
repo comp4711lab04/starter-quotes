@@ -44,6 +44,13 @@ $route['404_override'] = '';
 $route['sleep'] =  'first/zzz';
 $route['lock/*/*'] = 'welcom/shucks';
 $route['show/3'] = 'first/gimme/3';
+$route['dunno'] = function() {
+    $source = './data/Mr-Bean-In-A-Mime-Costume.jpg';
+    header("Content-type: image/jpeg");
+    header('Content-Disposition: inline');
+    readfile($source);
+    die();
+};
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
