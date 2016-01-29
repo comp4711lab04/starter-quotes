@@ -11,8 +11,8 @@ Note* use Alman style notation
 **************
 Team members
 **************
-John Janzen Acknowledged
 Austin Lott Acknowlaged again
+John Janzen Acknowledged
 
 **************
 Intended Usage
