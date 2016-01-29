@@ -12,7 +12,7 @@ Note* use Alman style notation
 Team members
 **************
 Austin Lott Acknowlaged again
-John Janzen
+John Janzen Acknowledged
 
 **************
 Intended Usage
