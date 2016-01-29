@@ -43,6 +43,7 @@ $route['404_override'] = '';
 
 $route['sleep'] =  'first/zzz';
 $route['lock/*/*'] = 'welcom/shucks';
+$route['show/3'] = 'first/gimme/3';
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
