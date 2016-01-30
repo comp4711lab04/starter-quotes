@@ -45,6 +45,7 @@ $route['sleep'] =  'first/zzz';
 $route['lock/*/*'] = 'welcom/shucks';
 $route['show/3'] = 'first/gimme/3';
 $route['[a-z]{4}/bingo'] = 'bingo';
+$route['comp+[0-9]{4}\/*[a-z]+'] = 'wise/bingo';
 $route['dunno'] = function() {
     $source = './data/Mr-Bean-In-A-Mime-Costume.jpg';
     header("Content-type: image/jpeg");
